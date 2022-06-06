@@ -21,7 +21,7 @@ let wktus = moment.tz('Asia/Jakarta').format('ss')
 function pickRandom(list) {
   return list[Math.floor(Math.random() * list.length)]
 }
-global.owner = ['6289625556161','62831433937633', '62896255561617'] // Put your number here
+global.owner = ['6285822347348','6285822347348', '6285822347348'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -64,10 +64,10 @@ global.APIKeys = { // APIKey Here
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
-global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'By Pilar'
-global.author = `By Pilar`
-global.wm = 'ZEUS BOT - MD' 
+global.stiker_wait = '*Stiker sedang dibuat*'
+global.packname = 'ArullBotzMD'
+global.author = `By ArullOfc`
+global.wm = 'ArullBotz- MD' 
 global.watermark = wm
 global.botdate = `❏ ${wktuh} H  ${wktum} M  ${wktus} S\n❏ ${week} ${date}`
 global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
